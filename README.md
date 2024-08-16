@@ -6,11 +6,11 @@ Backend Engineer
 
 I've been in Software Development for last 4 years, I started my career as backend developer responsible for writing high quality code.
 
-* 🌍  I'm based in Srinagar, India
+* 🌍  I'm based from Srinagar, India currently based in Haywards Heath, West Sussex, England
 * ✉️  You can contact me at [faheemuddin@outlook.com](mailto:faheemuddin@outlook.com)
 
-<a href="https://www.twitter.com/khanfromkashmir" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/khanfromkashmir?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.x.com/faheemthoughts" target="_blank" rel="noreferrer"><img
+src="https://img.x.io/twitter/follow/faheemthoughts?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
