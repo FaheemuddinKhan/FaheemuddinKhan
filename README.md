@@ -4,9 +4,9 @@ Hi 👋 My name is Faheem
 Backend Engineer
 ----------------
 
-I've been in Software Development from 2020, I started my career as backend developer responsible for writing high quality code.
+I've been in Software Development since 2018, I started my career as backend developer responsible for writing high quality code.
 
-* 🌍  I'm from Srinagar, India currently based in Haywards Heath, West Sussex, England
+* 🌍  I'm from Srinagar, India currently based in Crawley, West Sussex, England
 * ✉️  You can contact me at [faheemuddin@outlook.com](mailto:faheemuddin@outlook.com)
 
 <a href="https://www.x.com/faheemthoughts" target="_blank" rel="noreferrer"><img
